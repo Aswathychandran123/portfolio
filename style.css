@@ -1,0 +1,34 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif; /* Set font for the body */
+    background-color: #f0f0f0; /* Set background color */
+    color: #333; /* Set text color */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+/* Style the header (h1) */
+h1 {
+    color: #4CAF50; /* Set color for the heading */
+    text-align: center; /* Center the heading */
+    margin-top: 50px; /* Add space at the top */
+}
+
+/* Style paragraphs */
+p {
+    font-size: 16px; /* Set font size */
+    line-height: 1.6; /* Adjust line spacing */
+    text-align: center; /* Center the text */
+    padding: 10px; /* Add padding around the paragraph */
+}
+
+/* Style the link */
+a {
+    color: #008CBA; /* Set the link color */
+    text-decoration: none; /* Remove the underline */
+}
+
+a:hover {
+    color: #ff6347; /* Change the color when hovering over the link */
+    text-decoration: underline; /* Add underline on hover */
+}
