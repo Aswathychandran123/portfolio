@@ -1,3 +1,8 @@
 DAY 1: 06/02/2025
 
 LEARN:Basic html tags.
+CHALLENGES:error while commiting
+
+DAY 2:
+
+LEARN:To create a portfolio.

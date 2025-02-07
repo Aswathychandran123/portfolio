@@ -1,34 +1,61 @@
-/* Style the body */
 body {
-    font-family: Arial, sans-serif; /* Set font for the body */
-    background-color: #f0f0f0; /* Set background color */
-    color: #333; /* Set text color */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-/* Style the header (h1) */
-h1 {
-    color: #4CAF50; /* Set color for the heading */
-    text-align: center; /* Center the heading */
-    margin-top: 50px; /* Add space at the top */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
 }
 
-/* Style paragraphs */
-p {
-    font-size: 16px; /* Set font size */
-    line-height: 1.6; /* Adjust line spacing */
-    text-align: center; /* Center the text */
-    padding: 10px; /* Add padding around the paragraph */
+header h1 {
+    margin: 0;
+    font-size: 36px;
 }
 
-/* Style the link */
+header p {
+    margin: 10px 0 0;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    font-size: 24px;
+    color: #4CAF50;
+}
+
+.project p {
+    font-size: 16px;
+    color: #555;
+}
+
 a {
-    color: #008CBA; /* Set the link color */
-    text-decoration: none; /* Remove the underline */
+    color: #4CAF50;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #ff6347; /* Change the color when hovering over the link */
-    text-decoration: underline; /* Add underline on hover */
+    text-decoration: underline;
 }
