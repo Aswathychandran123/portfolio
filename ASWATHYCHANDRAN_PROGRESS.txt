@@ -11,3 +11,8 @@ DAY 3:08/02/2025
 
 LEARN:updated portfolio.
 CHALLENGES:adding attractive css styles.
+
+DAY 4:09/02/2025
+
+LEARN:added css styles.
+
